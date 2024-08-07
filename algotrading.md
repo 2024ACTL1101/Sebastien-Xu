@@ -1,4 +1,11 @@
-
+title: "ACTL1101 Assignment Part A"
+author: Sebastien Xu
+date: "2024 T2"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  
 ## Algorithmic Trading Strategy
 
 ## Introduction
